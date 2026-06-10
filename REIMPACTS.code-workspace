@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../../Downloads/scholar-1.0.0/scholar-1.0.0/assets"
+		},
+		{
+			"path": "../../../../Downloads/scholar-1.0.0/scholar-1.0.0/vendor"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "REIMPACTS"
+	}
+}
